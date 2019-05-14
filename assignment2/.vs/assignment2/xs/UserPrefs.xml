@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{03A88A36-24EE-4297-AD7C-B6F39D604AD6}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="assignment2/Test.vb">
+    <Files>
+      <File FileName="assignment2/Test.vb" Line="12" Column="2" />
+      <File FileName="assignment2/packages.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.assignment2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

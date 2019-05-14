@@ -1,0 +1,9 @@
+C:\Users\gcotto\documents\visual studio 2015\Projects\HomeworkAssignmen4\HomeworkAssignmen4\bin\Debug\HomeworkAssignmen4.exe
+C:\Users\gcotto\documents\visual studio 2015\Projects\HomeworkAssignmen4\HomeworkAssignmen4\bin\Debug\HomeworkAssignmen4.pdb
+C:\Users\gcotto\documents\visual studio 2015\Projects\HomeworkAssignmen4\HomeworkAssignmen4\bin\Debug\HomeworkAssignmen4.xml
+C:\Users\gcotto\documents\visual studio 2015\Projects\HomeworkAssignmen4\HomeworkAssignmen4\obj\Debug\HomeworkAssignmen4.Form1.resources
+C:\Users\gcotto\documents\visual studio 2015\Projects\HomeworkAssignmen4\HomeworkAssignmen4\obj\Debug\HomeworkAssignmen4.Resources.resources
+C:\Users\gcotto\documents\visual studio 2015\Projects\HomeworkAssignmen4\HomeworkAssignmen4\obj\Debug\HomeworkAssignmen4.vbproj.GenerateResource.Cache
+C:\Users\gcotto\documents\visual studio 2015\Projects\HomeworkAssignmen4\HomeworkAssignmen4\obj\Debug\HomeworkAssignmen4.exe
+C:\Users\gcotto\documents\visual studio 2015\Projects\HomeworkAssignmen4\HomeworkAssignmen4\obj\Debug\HomeworkAssignmen4.xml
+C:\Users\gcotto\documents\visual studio 2015\Projects\HomeworkAssignmen4\HomeworkAssignmen4\obj\Debug\HomeworkAssignmen4.pdb

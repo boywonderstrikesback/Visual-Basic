@@ -1,0 +1,242 @@
+objects 
+-create your own class
+    principals of oop
+    encapsulation
+        -data hiding, combined properties and behaviors 
+        only showing properties and methods we want/ need to
+
+    polymorphism
+        same name different implementation 
+        overloading 
+            same name, different arg list
+            Messagebox.show(different)
+            constructors
+            sub New()
+            Sub New(qty,price,titltes)
+        Overriding 
+            Same name, did something different in the derived class
+            bookSales-CalcExtended 
+            StudentsBookSale-CalcExtended
+    
+    inheritance 
+      build new classes from existing classes 
+      reuse code that we know works 
+      Person - Employee, Student
+      Parent/Child, Base/derived 
+      "is a" relationsship 
+      windows app - inherited from base system class
+      derived class 
+        inherits all public properties, public methods Except constructors
+                have to recreate an overload constructors
+                do not herit private properties or methods 
+                do not herit constructors
+                do Herit things marked as protected 
+        Class 
+            derived
+                public is inherited
+                Private does not 
+                protected is inherited
+            Instance of Class 
+                    public - can use It  
+                    private -no 
+                    protected -no 
+        Noun objects 
+            properties 
+                    characteristics/adjectives/describe/
+                    Instance Varibale and properties get/set 
+                    accessor and mutator 
+
+            behaviors
+                verbs, things it can do 
+                Methods -sub or function 
+
+            Events 
+
+            properties
+
+        instance Variable and properties 
+
+
+        Private NameString as String 
+        properties Name as String 
+            Get 
+                Return NameString 
+                'Messagebox.Show(object.Name)
+            End Get 
+                Set (value as String)
+                    NameString =Value 
+                        object.Name ="my name"
+                    End Set
+
+            end properties
+
+            "readONly or Write only
+            AutoImplemented properties  
+                property Quantity As Integer 
+                'private_Quantity as Integer 
+                don't have business Logic 
+            Never use instance variable directly 
+                NameString="anthony"
+                because, you might violate business logic 
+            properties are Always public by default 
+                property Name as String 
+                Public Property Name as String
+        Methods 
+            sub or function 
+            All are Public by default 
+            Sub CalcExtendedPrice()
+            Public Sub CalcExtendedPrice()
+
+
+        constructors
+            sub New()
+                All have default constructor
+            overloading constructor
+            Sub New (param1,Param2)
+            Intialization, setup works
+                create our objects
+            Always public by default 
+                inheritance
+                    have to call base constructor
+                    MyBase.New()
+
+            Create/Instance  an object
+            Dim Object1 as new BookSale
+            Dim Object2 As BookSale ' create reference 
+            Object2= New BookSale ' create the object 
+
+            reference as value 
+
+            using objects 
+                 Object1.Quantity=1 'get property 
+                 Label.Text=Object1.ExtenededPrice 'set property
+
+                 Object1.CalcExtendedPrice() 'using methods 
+
+                 Dim Object1 as New BookSale 'called the constructor
+
+                 Dim Object1 AS new object
+                 Shared properties 
+                    asscoiated with the class  ITSELF 
+                    accumulation 
+                    Not individual instance of an object 
+
+
+        Abstract vs Concrete 
+            abstract - shapes - generic class 
+                does not implement Everything 
+            Concrete- instantiate an instance of it circle, triangle inherit from abstract/shapes 
+            implement the missing functionaltiy 
+
+Web applications 
+        Web froms VS windows forms 
+        Web Forms 
+                Web Server 
+                    ITs, Apache 
+            Client 
+                Browser, mobile app, 
+        Presentation and business 
+            web form/ web page 
+            aspx aspx.VB  
+            aspx -Presentation 
+                html, css, Javascript, ASP.Net 
+                aspx.VB - buiness tier 
+                    events - click button changed a dropdown, load from a db 
+
+            Differences 
+                web 
+                    no absolute position, css
+                    HTML tables 
+                    Page_Load 
+                        everytime 
+                        no such thing as class level variable 
+                        PostBack 
+                            1st time, = flase
+                            ever other time = true 
+                    Maintain State 
+                        HTTP - stateless 
+                        client 
+                            hidden fields, cookies, querystring, viewstate 
+                        Server 
+                            sessions, application
+
+                    Controls 
+                       Hyperlink-navigateurl
+                       Id - Name
+
+                    Validation
+                        label on the web form ValidatorControls 
+                            RequiredValidator 
+                            RangeValidator 
+                            RegularExpression 
+                                Pattern matching, email , or phone 
+                            ValidationSummary
+                            there were used to cut down on postbacks 
+                            Javascript/html 
+                    
+                    Windows 
+                        absolute positioning 
+                        Form_load 
+                            once 
+                        Controls 
+                            Name - identify it 
+        
+
+
+database
+-      Persist 
+        Relational Database 
+        Data Hierarchy 
+            Bits, Bytes Fields, Records File/Databases 
+            Field =COlumn in a table 
+            Records Row in a tbae 
+
+            SQL, xml
+            ADO.Net
+
+            Datasoure = file/db/stream/array 
+
+            Binding Soure 
+                -communication layer 
+            Table Adaptor 
+                Sql Statements , retrieval updates from the data source
+                coming to dataset is XML 
+            Dataset 
+             representation of the data 
+             diconnected, not live/offline 
+             copy of the data 
+
+             bind to Controls
+                Gridview , datagrid, combobox, Detail view 
+
+            ADO.NET 
+                Connection, Command , Datareader, DataAdaptor, DataSet 
+
+                declare connection 
+                open connection 
+                declare command 
+                run the command 
+                consume the data -binding controls 
+                close the connection
+
+                Data reader -
+                    forward only 
+                    can't be used for paging 
+                    performance reasons 
+                    list of states or countries 
+
+
+            MOdal vs MOdeless 
+                -implement this in code to display dialoge window 
+                Dim Response as DialogResult 
+                Response =Messagebox.Show("are you sure?", "title", MessageboxButtons.YESno)
+
+Modal needs to be responded to
+messagebox.Show(hello")
+
+Modeless does not need to respond to (opens up a tab and you don't need to respond too)
+-AboutBox.Hello
+
+
+                If Response = DialogResult.Yes Then 
+                ' do something 

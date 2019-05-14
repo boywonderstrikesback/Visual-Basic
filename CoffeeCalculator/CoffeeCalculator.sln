@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CoffeeCalculator", "DentalPayment\CoffeeCalculator.vbproj", "{6A86CD34-BA64-4B0A-ADAC-C1CABA3A2BE3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2D1B4EB8-1FA9-4800-967A-7F4587E33EB2}"
+	ProjectSection(SolutionItems) = preProject
+		CoffeeCalculator.sln = CoffeeCalculator.sln
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A86CD34-BA64-4B0A-ADAC-C1CABA3A2BE3}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6A86CD34-BA64-4B0A-ADAC-C1CABA3A2BE3}.Debug|Any CPU.Build.0 = Debug|x86
+		{6A86CD34-BA64-4B0A-ADAC-C1CABA3A2BE3}.Release|Any CPU.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

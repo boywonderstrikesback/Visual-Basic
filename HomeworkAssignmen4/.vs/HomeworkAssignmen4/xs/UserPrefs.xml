@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{EAD4B180-08D0-4413-B285-3BFABA6827D4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeworkAssignmen4/BMI Calculator.Designer.vb">
+    <Files>
+      <File FileName="HomeworkAssignmen4/BMI Calculator.vb" Line="1" Column="1" />
+      <File FileName="HomeworkAssignmen4/BMI Calculator.resx" Line="1" Column="1" />
+      <File FileName="HomeworkAssignmen4/BMI Calculator.Designer.vb" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeworkAssignmen4" expanded="True">
+            <Node name="HomeworkAssignmen4" expanded="True">
+              <Node name="My Project" expanded="True" />
+              <Node name="BMI Calculator.vb" expanded="True">
+                <Node name="BMI Calculator.Designer.vb" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HomeworkAssignmen4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

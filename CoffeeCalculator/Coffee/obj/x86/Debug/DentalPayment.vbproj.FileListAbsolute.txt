@@ -1,0 +1,85 @@
+C:/Users/Paul Deitel/AppData/Local/Temporary Projects/DentalPayment/bin/Debug/DentalPayment.exe
+C:/Users/Paul Deitel/AppData/Local/Temporary Projects/DentalPayment/bin/Debug/DentalPayment.pdb
+C:/Users/Paul Deitel/AppData/Local/Temporary Projects/DentalPayment/bin/Debug/DentalPayment.xml
+C:/Users/Paul Deitel/AppData/Local/Temporary Projects/DentalPayment/obj/x86/Debug/ResolveAssemblyReference.cache
+C:/Users/Paul Deitel/AppData/Local/Temporary Projects/DentalPayment/obj/x86/Debug/DentalPayment.DentalPayment.resources
+C:/Users/Paul Deitel/AppData/Local/Temporary Projects/DentalPayment/obj/x86/Debug/DentalPayment.Resources.resources
+C:/Users/Paul Deitel/AppData/Local/Temporary Projects/DentalPayment/obj/x86/Debug/GenerateResource.read.1.tlog
+C:/Users/Paul Deitel/AppData/Local/Temporary Projects/DentalPayment/obj/x86/Debug/GenerateResource.write.1.tlog
+C:/Users/Paul Deitel/AppData/Local/Temporary Projects/DentalPayment/obj/x86/Debug/DentalPayment.exe
+C:/Users/Paul Deitel/AppData/Local/Temporary Projects/DentalPayment/obj/x86/Debug/DentalPayment.xml
+C:/Users/Paul Deitel/AppData/Local/Temporary Projects/DentalPayment/obj/x86/Debug/DentalPayment.pdb
+C:/books/2010/VB2010HTP/examples/ch05/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.exe
+C:/books/2010/VB2010HTP/examples/ch05/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.xml
+C:/books/2010/VB2010HTP/examples/ch05/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.pdb
+C:/books/2010/VB2010HTP/examples/ch05/DentalPayment/DentalPayment/bin/Debug/DentalPayment.exe
+C:/books/2010/VB2010HTP/examples/ch05/DentalPayment/DentalPayment/bin/Debug/DentalPayment.pdb
+C:/books/2010/VB2010HTP/examples/ch05/DentalPayment/DentalPayment/bin/Debug/DentalPayment.xml
+C:/books/2010/VB2010HTP/examples/ch05/DentalPayment/DentalPayment/obj/x86/Debug/ResolveAssemblyReference.cache
+C:/books/2010/VB2010HTP/examples/ch05/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.DentalPayment.resources
+C:/books/2010/VB2010HTP/examples/ch05/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.Resources.resources
+C:/books/2010/VB2010HTP/examples/ch05/DentalPayment/DentalPayment/obj/x86/Debug/GenerateResource.read.1.tlog
+C:/books/2010/VB2010HTP/examples/ch05/DentalPayment/DentalPayment/obj/x86/Debug/GenerateResource.write.1.tlog
+C:/books/2010/VB2010HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.exe
+C:/books/2010/VB2010HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.xml
+C:/books/2010/VB2010HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.pdb
+C:/books/2010/VB2010HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/bin/Debug/DentalPayment.exe
+C:/books/2010/VB2010HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/bin/Debug/DentalPayment.pdb
+C:/books/2010/VB2010HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/bin/Debug/DentalPayment.xml
+C:/books/2010/VB2010HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/obj/x86/Debug/ResolveAssemblyReference.cache
+C:/books/2010/VB2010HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.DentalPayment.resources
+C:/books/2010/VB2010HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.Resources.resources
+C:/books/2010/VB2010HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/obj/x86/Debug/GenerateResource.read.1.tlog
+C:/books/2010/VB2010HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/obj/x86/Debug/GenerateResource.write.1.tlog
+C:/books/2012/VB2012HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.exe
+C:/books/2012/VB2012HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.xml
+C:/books/2012/VB2012HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.pdb
+C:/books/2012/VB2012HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/bin/Debug/DentalPayment.exe
+C:/books/2012/VB2012HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/bin/Debug/DentalPayment.pdb
+C:/books/2012/VB2012HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/bin/Debug/DentalPayment.xml
+C:/books/2012/VB2012HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.DentalPayment.resources
+C:/books/2012/VB2012HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.Resources.resources
+C:/books/2012/VB2012HTP/examples/ch05/fig05_18/DentalPayment/DentalPayment/obj/x86/Debug/DentalPayment.vbproj.GenerateResource.Cache
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/obj/x86/Debug/DentalPayment.exe
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/obj/x86/Debug/DentalPayment.xml
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/obj/x86/Debug/DentalPayment.pdb
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/bin/Debug/DentalPayment.exe
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/bin/Debug/DentalPayment.pdb
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/bin/Debug/DentalPayment.xml
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/obj/x86/Debug/DentalPayment.vbprojResolveAssemblyReference.cache
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/obj/x86/Debug/DentalPayment.DentalPayment.resources
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/obj/x86/Debug/DentalPayment.Resources.resources
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/obj/x86/Debug/DentalPayment.vbproj.GenerateResource.Cache
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Work/DentalPayment/obj/x86/Debug/DentalPayment.exe
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Work/DentalPayment/obj/x86/Debug/DentalPayment.xml
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Work/DentalPayment/obj/x86/Debug/DentalPayment.pdb
+C:/Users/addepinto/Downloads/Ch05_HandsOn_DentalPayment_Work/Ch05_HandsOn_DentalPayment_Work/DentalPayment/obj/x86/Debug/DentalPayment.exe
+C:/Users/addepinto/Downloads/Ch05_HandsOn_DentalPayment_Work/Ch05_HandsOn_DentalPayment_Work/DentalPayment/obj/x86/Debug/DentalPayment.xml
+C:/Users/addepinto/Downloads/Ch05_HandsOn_DentalPayment_Work/Ch05_HandsOn_DentalPayment_Work/DentalPayment/obj/x86/Debug/DentalPayment.pdb
+C:/Users/addepinto/Downloads/Ch05_HandsOn_DentalPayment_Work/Ch05_HandsOn_DentalPayment_Work/DentalPayment/bin/Debug/DentalPayment.exe
+C:/Users/addepinto/Downloads/Ch05_HandsOn_DentalPayment_Work/Ch05_HandsOn_DentalPayment_Work/DentalPayment/bin/Debug/DentalPayment.pdb
+C:/Users/addepinto/Downloads/Ch05_HandsOn_DentalPayment_Work/Ch05_HandsOn_DentalPayment_Work/DentalPayment/bin/Debug/DentalPayment.xml
+C:/Users/addepinto/Downloads/Ch05_HandsOn_DentalPayment_Work/Ch05_HandsOn_DentalPayment_Work/DentalPayment/obj/x86/Debug/DentalPayment.vbprojResolveAssemblyReference.cache
+C:/Users/addepinto/Downloads/Ch05_HandsOn_DentalPayment_Work/Ch05_HandsOn_DentalPayment_Work/DentalPayment/obj/x86/Debug/DentalPayment.DentalPayment.resources
+C:/Users/addepinto/Downloads/Ch05_HandsOn_DentalPayment_Work/Ch05_HandsOn_DentalPayment_Work/DentalPayment/obj/x86/Debug/DentalPayment.Resources.resources
+C:/Users/addepinto/Downloads/Ch05_HandsOn_DentalPayment_Work/Ch05_HandsOn_DentalPayment_Work/DentalPayment/obj/x86/Debug/DentalPayment.vbproj.GenerateResource.Cache
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Work/Ch05_HandsOn_DentalPayment_Work/DentalPayment/obj/x86/Debug/DentalPayment.exe
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Work/Ch05_HandsOn_DentalPayment_Work/DentalPayment/obj/x86/Debug/DentalPayment.xml
+C:/Users/anthony.Office/Documents/Personal/YSU/Teaching/Webroot/CSIS3726/handson/code/Ch05_HandsOn_DentalPayment_Work/Ch05_HandsOn_DentalPayment_Work/DentalPayment/obj/x86/Debug/DentalPayment.pdb
+C:/Users/mjross03/Downloads/Ch05_HandsOn_DentalPayment_Solution/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/obj/x86/Debug/DentalPayment.exe
+C:/Users/mjross03/Downloads/Ch05_HandsOn_DentalPayment_Solution/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/obj/x86/Debug/DentalPayment.xml
+C:/Users/mjross03/Downloads/Ch05_HandsOn_DentalPayment_Solution/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/obj/x86/Debug/DentalPayment.pdb
+C:/Users/mjross03/Downloads/Ch05_HandsOn_DentalPayment_Solution/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/bin/Debug/DentalPayment.exe
+C:/Users/mjross03/Downloads/Ch05_HandsOn_DentalPayment_Solution/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/bin/Debug/DentalPayment.pdb
+C:/Users/mjross03/Downloads/Ch05_HandsOn_DentalPayment_Solution/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/bin/Debug/DentalPayment.xml
+C:/Users/mjross03/Downloads/Ch05_HandsOn_DentalPayment_Solution/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/obj/x86/Debug/DentalPayment.vbprojResolveAssemblyReference.cache
+C:/Users/mjross03/Downloads/Ch05_HandsOn_DentalPayment_Solution/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/obj/x86/Debug/DentalPayment.DentalPayment.resources
+C:/Users/mjross03/Downloads/Ch05_HandsOn_DentalPayment_Solution/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/obj/x86/Debug/DentalPayment.Resources.resources
+C:/Users/mjross03/Downloads/Ch05_HandsOn_DentalPayment_Solution/Ch05_HandsOn_DentalPayment_Solution/DentalPayment/obj/x86/Debug/DentalPayment.vbproj.GenerateResource.Cache
+/Users/mikeross/Downloads/Ch05_HandsOn_DentalPayment_Solution-2/DentalPayment/obj/x86/Debug/DentalPayment.vbprojResolveAssemblyReference.cache
+/Users/mikeross/Downloads/Ch05_HandsOn_DentalPayment_Solution-2/DentalPayment/obj/x86/Debug/DentalPayment.DentalPayment.resources
+/Users/mikeross/Downloads/Ch05_HandsOn_DentalPayment_Solution-2/DentalPayment/obj/x86/Debug/DentalPayment.Resources.resources
+/Users/mikeross/Downloads/Ch05_HandsOn_DentalPayment_Solution-2/DentalPayment/obj/x86/Debug/DentalPayment.vbproj.GenerateResource.Cache
+/Users/mikeross/Downloads/Ch05_HandsOn_DentalPayment_Solution-2/DentalPayment/obj/x86/Debug/DentalPayment.vbproj.CoreCompileInputs.cache
+/Users/mikeross/Downloads/Ch05_HandsOn_DentalPayment_Solution-2/DentalPayment/obj/x86/Debug/DentalPayment.exe
+/Users/mikeross/Downloads/Ch05_HandsOn_DentalPayment_Solution-2/DentalPayment/obj/x86/Debug/DentalPayment.xml
